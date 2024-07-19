@@ -1,0 +1,134 @@
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\appsettings.json
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Engelsiz Rehber Admin Paneli.staticwebassets.runtime.json
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Engelsiz Rehber Admin Paneli.exe
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Engelsiz Rehber Admin Paneli.deps.json
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Engelsiz Rehber Admin Paneli.runtimeconfig.json
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Engelsiz Rehber Admin Paneli.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Engelsiz Rehber Admin Paneli.pdb
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz Rehber Admin Paneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz Rehber Admin Paneli.AssemblyInfoInputs.cache
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz Rehber Admin Paneli.AssemblyInfo.cs
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz Rehber Admin Paneli.csproj.CoreCompileInputs.cache
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz Rehber Admin Paneli.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz Rehber Admin Paneli.RazorAssemblyInfo.cache
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz Rehber Admin Paneli.RazorAssemblyInfo.cs
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\staticwebassets\msbuild.Engelsiz Rehber Admin Paneli.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\staticwebassets\msbuild.build.Engelsiz Rehber Admin Paneli.props
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Engelsiz Rehber Admin Paneli.props
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Engelsiz Rehber Admin Paneli.props
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\scopedcss\bundle\Engelsiz Rehber Admin Paneli.styles.css
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\scopedcss\projectbundle\Engelsiz Rehber Admin Paneli.bundle.scp.css
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz Rehber Admin Paneli.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\refint\Engelsiz Rehber Admin Paneli.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz Rehber Admin Paneli.pdb
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz Rehber Admin Paneli.genruntimeconfig.cache
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\ref\Engelsiz Rehber Admin Paneli.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Humanizer.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz Rehber Admin Paneli.csproj.AssemblyReference.cache
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\obj\Debug\net8.0\Engelsiz.2756FE67.Up2Date
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\FirebaseAdmin.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\erene\OneDrive\Masaüstü\Engelsiz Rehber Admin Paneli\Engelsiz Rehber Admin Paneli\bin\Debug\net8.0\Newtonsoft.Json.dll

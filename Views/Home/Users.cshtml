@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <title>Engelsiz Rehber - Kullanıcıları Yönet</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <style>
+        ::-webkit-scrollbar {
+            width: 20px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background-color: transparent;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background-color: #d6dee1;
+            border-radius: 20px;
+            border: 6px solid transparent;
+            background-clip: content-box;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="wrapper d-flex align-items-stretch">
+        <nav id="sidebar" class="active">
+            <div class="custom-menu">
+                <button type="button" id="sidebarCollapse" class="btn btn-primary">
+                    <i class="fa fa-bars"></i>
+                    <span class="sr-only">Toggle Menu</span>
+                </button>
+            </div>
+            <div class="p-4">
+                <h3><a asp-action="Index" class="logo">Engelsiz Rehber Admin</a></h3>
+                <ul class="list-unstyled components mb-5">
+                    <li>
+                        <a asp-action="Index"><span class="fa fa-calendar mr-3"></span>Etkinlikler</a>
+                    </li>
+                    <li class="active">
+                        <a asp-action="Users"><span class="fa fa-user mr-3"></span> Kullanıcılar</a>
+                    </li>
+                    <li>
+                        <a asp-action="Messaging"><span class="fa fa-bell mr-3"></span>Bildirim</a>
+                    </li>
+                    <li>
+                        <a href="#"><span class="fa fa-comments mr-3"></span>Forum</a>
+                    </li>
+                    <li>
+                        <a href="#"><span class="fa fa-question mr-3 ml-1"></span>Yardım</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div id="content" class="p-4 p-md-5 pt-5">
+            <h1>Kullanıcıları Yönet</h1>
+            <div class="table-responsive" style="border: 1px gainsboro solid; border-radius: 20px;">
+                <table class="table table-hover">
+                    <thead class="table-ligth" style="user-select: none;">
+                        <tr>
+                            <th scope="col">Adı</th>
+                            <th scope="col">E-Posta</th>
+                            <th scope="col">İşlemler</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Eren</td>
+                            <td>erenergut@gmail.com</td>
+                            <td>
+                                <div style="display: flex;">
+                                    <button type="button" class="btn btn-danger">Sil</button>&nbsp;
+                                    <button type="button" class="btn btn-info">Güncelle</button>
+                                </div>
+                            </td>
+                        </tr>
+     
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/popper.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/main.js"></script>
+    <script>document.getElementById("sidebarCollapse").click();</script>
+</body>
+
+</html>

@@ -1,0 +1,133 @@
+@model List<Event>
+
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <title>Engelsiz Rehber - Etkinlikleri Yönet</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
+    <link rel="shortcut icon" href="~/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .tdhover:hover {
+            cursor: pointer;
+        }
+
+        ::-webkit-scrollbar {
+            width: 20px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background-color: transparent;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background-color: #d6dee1;
+            border-radius: 20px;
+            border: 6px solid transparent;
+            background-clip: content-box;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="wrapper d-flex align-items-stretch">
+        <nav id="sidebar" class="active">
+            <div class="custom-menu">
+                <button type="button" id="sidebarCollapse" class="btn btn-primary">
+                    <i class="fa fa-bars"></i>
+                    <span class="sr-only">Toggle Menu</span>
+                </button>
+            </div>
+            <div class="p-4">
+                <h3><a asp-action="Index" class="logo">Engelsiz Rehber Admin</a></h3>
+                <ul class="list-unstyled components mb-5">
+                    <li class="active">
+                        <a asp-action="Index"><span class="fa fa-calendar mr-3"></span>Etkinlikler</a>
+                    </li>
+                    <li>
+                        <a asp-action="Users"><span class="fa fa-user mr-3"></span> Kullanıcılar</a>
+                    </li>
+                    <li>
+                        <a asp-action="Messaging"><span class="fa fa-bell mr-3"></span>Bildirim</a>
+                    </li>
+                    <li>
+                        <a href="#"><span class="fa fa-comments mr-3"></span>Forum</a>
+                    </li>
+                    <li>
+                        <a href="#"><span class="fa fa-question mr-3 ml-1"></span>Yardım</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div id="content" class="p-4 p-md-5 pt-5">
+            <div style="display: flex; justify-content: space-between;">
+                <h1>Etkinlikleri Yönet</h1>
+                <a asp-action="AddEvent"><button class="btn btn-success"><i class="fa fa-plus fa-1x pr-2"></i>Etkinlik Oluştur</button></a>
+            </div>
+            <br>
+            <div class="table-responsive" style="border: 1px gainsboro solid; border-radius: 20px;">
+                <table class="table table-hover">
+                    <thead class="table-ligth" style="user-select: none;">
+                        <tr>
+                            <th scope="col">Etkinlik Başlığı</th>
+                            <th scope="col">Adresi</th>
+                            <th scope="col">Başlangıç Tarihi</th>
+                            <th scope="col">Bitiş Tarihi</th>
+                            <th scope="col">İşlemler</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{if (Model != null)
+                        {
+                            
+                            @foreach (var ev in Model)
+                            {
+                                <tr>
+                                    <td>@ev.title</td>
+                                    <td class="tdhover">
+                                        <i class="fa fa-map-marker fa-2x" aria-hidden="true"
+                                           title="@ev.eventLocal"></i>
+                                    </td>
+                                    <td>@ev.startDate</td>
+                                    <td>@ev.finishDate</td>
+                                    <td>
+                                        <div style="display: flex;">
+                                            <a asp-action="DeleteEvent" asp-route-id="@ev.id"><button type="button" class="btn btn-danger">Sil</button>&nbsp;</a>
+                                            <button type="button" class="btn btn-info">Güncelle</button>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else{
+                            <tr><th>Herhangi Bir Etknilik Bulunamadı</th></tr>
+                        }
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <footer>
+                * Adresi görmek için imleçi ikonun üzerinde tutun
+
+            </footer>
+        </div>
+
+    </div>
+
+
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+    <script>document.getElementById("sidebarCollapse").click();</script>
+</body>
+
+</html>
